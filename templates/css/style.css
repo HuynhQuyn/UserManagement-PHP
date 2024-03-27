@@ -1,0 +1,19 @@
+/* css */
+
+.mg-form {
+    margin-bottom: 10px;
+}
+
+.mg-btn {
+    margin-top: 10px;
+    width: 15%;
+}
+.btn-form {
+    margin-top: 10px;
+    width: 100%;
+}
+
+.error {
+    color: red;
+    font-style: italic;
+  }
